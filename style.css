@@ -395,7 +395,7 @@ body {
   .section__image {
     max-width: 100%;
   }
-  .section--services {
+  .section__services {
     flex-direction: column-reverse;
   }
 
